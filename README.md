@@ -1,6 +1,6 @@
 # n3ofetch - Windows NeoFetch Altanative
 
-![Version](https://img.shields.io/badge/Version-1.1.0-orange)
+![Version](https://img.shields.io/badge/Version-1.0.1-orange)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows)
