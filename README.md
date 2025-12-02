@@ -7,11 +7,11 @@
 ![Build](https://img.shields.io/github/actions/workflow/status/techronmic/n3ofetch/batch-lint.yml?label=CI)
 
 <p align="center">
-  <img src="assets/screenshots/n3ofetch_win11_notebook.png" alt="n3ofetch screenshot" width="720"/>
+  <b>A modern Windows alternative to the classic Linux tool <code>neofetch</code>.</b>
 </p>
 
 <p align="center">
-  <b>A modern Windows alternative to the classic Linux tool <code>neofetch</code>.</b>
+  <img src="assets/screenshots/n3ofetch_win11_notebook.png" alt="n3ofetch screenshot" width="720"/>
 </p>
 
 ---
