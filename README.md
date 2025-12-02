@@ -82,6 +82,8 @@ Invoke-WebRequest `
 curl -LO https://github.com/techronmic/n3ofetch/releases/latest/download/n3ofetch.bat
 ```
 
+---
+
 ## 📚 Documentation
 
 - User Guide: `docs/documentation.md`
