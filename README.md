@@ -7,7 +7,7 @@
 ![Build](https://img.shields.io/github/actions/workflow/status/techronmic/n3ofetch/batch-lint.yml?label=CI)
 
 <p align="center">
-  <img src="assets/n3ofetch_win11_notebook.png" alt="n3ofetch screenshot" width="720"/>
+  <img src="assets/screenshots/n3ofetch_win11_notebook.png" alt="n3ofetch screenshot" width="720"/>
 </p>
 
 <p align="center">
