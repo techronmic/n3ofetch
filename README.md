@@ -70,6 +70,18 @@ More examples can be found in `docs/examples.md`.
 
 ---
 
+# 🧪 Update n3ofetch (optional)
+
+```powershell
+Invoke-WebRequest `
+  -Uri "https://github.com/techronmic/n3ofetch/releases/latest/download/n3ofetch.bat" `
+  -OutFile "$env:USERPROFILE\Tools\n3ofetch\n3ofetch.bat"
+```
+
+```cmd
+curl -LO https://github.com/techronmic/n3ofetch/releases/latest/download/n3ofetch.bat
+```
+
 ## 📚 Documentation
 
 - User Guide: `docs/documentation.md`
