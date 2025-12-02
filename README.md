@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/github/downloads/techronmic/n3ofetch/v1.0.1/total?cacheSeconds=60)
 ![License](https://img.shields.io/github/license/techronmic/n3ofetch)
 ![Stars](https://img.shields.io/github/stars/techronmic/n3ofetch?style=social)
-![Build](https://img.shields.io/github/actions/workflow/status/techronmic/n3ofetch/batch-lint.yml?label=CI)
+![Build](https://img.shields.io/github/actions/workflow/status/techronmic/n3ofetch/batch-lint.yml?label=CI&branch=main)
 
 <p align="center">
   <b>A modern Windows alternative to the classic Linux tool <code>neofetch</code>.</b>
