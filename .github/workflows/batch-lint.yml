@@ -1,0 +1,13 @@
+name: Batch Syntax Check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run n3ofetch for smoke test
+        run: cmd /c "call n3ofetch.bat || exit /b 1"
