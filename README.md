@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/n3ofetch_win11_notebook.png" alt="n3ofetch screenshot" width="720"/>
+  <img src="assets/screenshots/n3ofetch_win11_pc.png" alt="n3ofetch screenshot" width="720"/>
 </p>
 
 ---
