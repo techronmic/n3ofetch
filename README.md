@@ -1,11 +1,10 @@
 # n3ofetch
 
 ![Version](https://img.shields.io/github/v/tag/techronmic/n3ofetch?label=version)
-![Code Size](https://img.shields.io/github/languages/code-size/techronmic/n3ofetch)
-![Downloads](https://img.shields.io/github/downloads/techronmic/n3ofetch/v1.0.1/total?cacheSeconds=60)
+![Downloads](https://img.shields.io/github/downloads/techronmic/n3ofetch/total)
 ![License](https://img.shields.io/github/license/techronmic/n3ofetch)
 ![Stars](https://img.shields.io/github/stars/techronmic/n3ofetch?style=social)
-![Build](https://img.shields.io/github/actions/workflow/status/techronmic/n3ofetch/batch-lint.yml?label=CI&branch=main)
+![Build](https://img.shields.io/github/actions/workflow/status/techronmic/n3ofetch/batch-lint.yml?label=CI)
 
 <p align="center">
   <b>A modern Windows alternative to the classic Linux tool <code>neofetch</code>.</b>
@@ -81,8 +80,6 @@ Invoke-WebRequest `
 ```cmd
 curl -LO https://github.com/techronmic/n3ofetch/releases/latest/download/n3ofetch.bat
 ```
-
----
 
 ## 📚 Documentation
 
