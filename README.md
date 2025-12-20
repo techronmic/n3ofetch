@@ -58,7 +58,7 @@ Example output:
   ################  ################   BIOS: V75 Ver. 01.10.00 (HP)
   ################  ################   CPU: 13th Gen Intel(R) Core(TM) i5-1335U Cores 10
   ################  ################   GPU: Intel(R) Iris(R) Xe Graphics
-  ################  ################   Memory: Kingston 32GB DDR4-3200, Kingston 32GB DDR4-3200
+  ################  ################   Memory: 2 x Kingston 32GB DDR4-3200
   ################  ################   Memory Usage: 19632 MB / 65168 MB (30% in use)
   ################  ################   System Partition: C:\  175,62 GB / 255,23 GB (31% free)
   ################  ################   Storage Space: 287 GB / 2592 GB (11% in use)
