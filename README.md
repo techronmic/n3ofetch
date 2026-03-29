@@ -121,7 +121,7 @@ techronmic
 Contact: techronmic@gmail.com
 
 ## 🙌 Support
-https://www.paypal.com/donate/?hosted_button_id=U4MVM7GJ5XMDY
+<a href="https://www.paypal.com/donate/?hosted_button_id=U4MVM7GJ5XMDY" target="_blank">Donate via PayPal</a>
 
 ---
 
