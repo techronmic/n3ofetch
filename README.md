@@ -75,7 +75,7 @@ More examples can be found in `docs/examples.md`.
 ```powershell
 Invoke-WebRequest `
   -Uri "https://github.com/techronmic/n3ofetch/releases/latest/download/n3ofetch.bat" `
-  -OutFile "$env:USERPROFILE\Tools\n3ofetch\n3ofetch.bat"
+
 ```
 
 ```cmd
